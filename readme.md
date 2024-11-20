@@ -30,5 +30,5 @@ For the Air Strings, reuse the original screws.
 - 8x M4x12mm (or longer)
 - 4x M3x16mm countersunk
 - 4x M5x8mm
-
+---
 There is a alternate STEP file which is customized to my needs. It includes a slot and case for an aime card reader on the front, detachable magnetic air towers, headphone port panel, PCB mount for redboard and a buck converter, 108mm riser (for arcade height on my table).
