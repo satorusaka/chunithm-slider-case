@@ -1,4 +1,4 @@
-# chuni-slider-case
+# chunithm-slider-case
 
 Chunithm arcade Ground Slider and Air Strings 3d printed case.
 
